@@ -51,4 +51,4 @@ versions:
 {% topic_link_in_list /using-github %}
     {% link_in_list /supported-browsers %}
     {% link_in_list /troubleshooting-connectivity-problems %}
-    {% link_in_list /keyboard-shortcuts %}
+    {% link_in_list /keyboard-shortcuts %} Regahawlery here
